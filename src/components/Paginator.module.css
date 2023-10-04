@@ -1,0 +1,14 @@
+.paginator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.pageButton {
+    margin: 0 5px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #e0e0e0;
+    cursor: pointer;
+}

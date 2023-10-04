@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "name": "Toyota Camry",
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2022,
+      "price": "$25,000",
+      "image": "https://via.placeholder.com/250x150?text=Toyota+Camry"
+    },
+    {
+      "id": 2,
+      "name": "Honda Civic",
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2021,
+      "price": "$22,000",
+      "image": "https://via.placeholder.com/250x150?text=Honda+Civic"
+    },
+    {
+      "id": 3,
+      "name": "Ford Mustang",
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2023,
+      "price": "$35,000",
+      "image": "https://via.placeholder.com/250x150?text=Ford+Mustang"
+    },
+    {
+      "id": 4,
+      "name": "Chevrolet Malibu",
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "year": 2022,
+      "price": "$24,500",
+      "image": "https://via.placeholder.com/250x150?text=Chevrolet+Malibu"
+    },
+    {
+      "id": 5,
+      "name": "Nissan Altima",
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2021,
+      "price": "$23,800",
+      "image": "https://via.placeholder.com/250x150?text=Nissan+Altima"
+    },
+    {
+      "id": 6,
+      "name": "BMW 3 Series",
+      "make": "BMW",
+      "model": "3 Series",
+      "year": 2023,
+      "price": "$45,000",
+      "image": "https://via.placeholder.com/250x150?text=BMW+3+Series"
+    },
+    {
+      "id": 7,
+      "name": "Mercedes-Benz C-Class",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2022,
+      "price": "$42,500",
+      "image": "https://via.placeholder.com/250x150?text=Mercedes-Benz+C-Class"
+    }
+  ]
+  
